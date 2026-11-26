@@ -1,0 +1,11 @@
+chd,variable,moy,med,sd,q1,q3
+Sans maladie,age,48.8,48,8.4,42,55
+Sans maladie,sysBP,130.3,127,20.5,116,141
+Sans maladie,totChol,235.2,232,43.8,205,261
+Sans maladie,BMI,25.7,25.2,4,23,27.9
+Sans maladie,glucose,80.7,78,19,71,86
+Maladie,age,54.1,55,8,48,61
+Maladie,sysBP,143.6,139,26.7,125,158
+Maladie,totChol,245.4,241,48.1,213.5,272
+Maladie,BMI,26.5,26.2,4.5,23.5,28.9
+Maladie,glucose,89,79,41.1,72,90

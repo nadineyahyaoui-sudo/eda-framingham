@@ -1,0 +1,6 @@
+variable,OR,IC_bas,IC_haut,p_value
+age10,1.925,1.704,2.174,0
+sysBP10,1.174,1.128,1.223,0
+totChol10,1.016,0.995,1.037,0.132
+currentSmoker,1.675,1.382,2.029,0
+glucose10,1.078,1.045,1.113,0
